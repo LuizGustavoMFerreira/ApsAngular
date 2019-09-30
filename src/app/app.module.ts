@@ -3,8 +3,7 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 
-import { SomarModule } from './somar/somar';
-
+import { SomarModule } from './somar';
 @NgModule({
   declarations: [
     AppComponent
