@@ -4,16 +4,17 @@ import { SomarComponent } from './components/somar';
 import { SomarService } from './services';
 
 
+
 @NgModule({
-    declarations: [SomarComponent],
-    imports: [
-        CommonModule
-    ],
-    exports: [
-        SomarComponent
-    ],
-    providers: [
-        SomarService
-    ]
+  declarations: [SomarComponent],
+  imports: [
+    CommonModule
+  ],
+  exports: [
+    SomarComponent
+  ],
+  providers: [
+    SomarService
+  ]
 })
 export class SomarModule { }

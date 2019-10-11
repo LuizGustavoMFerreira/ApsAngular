@@ -1,0 +1,6 @@
+body{
+    background: linear-gradient(to bottom, orangered, darkorange, gold);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

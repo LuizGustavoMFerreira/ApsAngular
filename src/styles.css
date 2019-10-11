@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+@import "../src/app/somar/components/somar/somar.component.css";
+
+.row{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
